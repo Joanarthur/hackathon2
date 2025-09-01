@@ -1,4 +1,4 @@
-# AI Study Buddy (Polished)
+# AI Study Buddy
 Quick start:
 1. Unzip, cd into folder.
 2. python -m venv venv
